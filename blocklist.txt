@@ -1,0 +1,8 @@
+/arscode-ninja-popups/*
+/chimpmatepro/*$script
+/mailmunch/static/popover.js
+/optinmonster/*$script
+||load.sumome.com
+||hellobar.com^$third-party,script,important
+||optinmonster.com*$script
+||webdesignerdepot.com/widget/*wdn-popup*
