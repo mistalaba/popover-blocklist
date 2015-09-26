@@ -1,6 +1,6 @@
 ! Title: popover-blocklist
-! Checksum: Jfa0sPW8FtmzpdePy4nlxA
-! Last Modified: 25 Sep 2015 11:05 +00:00
+! Checksum: ydEfJXm7Rr0FydC8lPcYAw
+! Last Modified: 26 Sep 2015 09:05 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -12,3 +12,4 @@
 ||hellobar.com^$third-party,script,important
 ||optinmonster.com*$script
 ||webdesignerdepot.com/widget/*wdn-popup*
+/facebook-page-promoter-lightbox/

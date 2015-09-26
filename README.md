@@ -10,3 +10,9 @@ My statistics shows that about 78% of all websites on the internet uses popovers
 Usage
 -----
 Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt to your filter subscriptions if you want to block some popovers, like "Subscribe to our newsletter", "Like us on Facebook" etc. 
+
+History
+-------
+
+2015-09-26
+Added /facebook-page-promoter-lightbox/
