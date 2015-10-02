@@ -13,6 +13,8 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 
 History
 -------
+2015-10-02
+Added ||leadpages.co*$third-party
 
 2015-09-26
 Added /facebook-page-promoter-lightbox/

@@ -12,3 +12,4 @@
 ||optinmonster.com*$script
 ||webdesignerdepot.com/widget/*wdn-popup*
 /facebook-page-promoter-lightbox/
+||leadpages.co*$third-party
