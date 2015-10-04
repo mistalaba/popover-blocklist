@@ -13,3 +13,4 @@
 ||webdesignerdepot.com/widget/*wdn-popup*
 /facebook-page-promoter-lightbox/
 ||leadpages.co*$third-party
+||stacklist.com/ajax/subscribe-modal

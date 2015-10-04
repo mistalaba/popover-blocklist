@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Checksum: OxRjhRGdcoUKJCAS+TFfRQ
+! Checksum: Ld3XZrvY/rN3gROKc88Esg
 ! Last Modified: 26 Sep 2015 09:05 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
@@ -14,3 +14,4 @@
 ||webdesignerdepot.com/widget/*wdn-popup*
 /facebook-page-promoter-lightbox/
 ||leadpages.co*$third-party
+||stacklist.com/ajax/subscribe-modal
