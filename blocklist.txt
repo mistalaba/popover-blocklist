@@ -1,17 +1,18 @@
 ! Title: popover-blocklist
-! Checksum: Ld3XZrvY/rN3gROKc88Esg
-! Last Modified: 26 Sep 2015 09:05 +01:00
+! Checksum: /yri3IF/gx3Yzym4JqpEVg
+! Last Modified: 08 Oct 2015 08:45 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
 /arscode-ninja-popups/*
 /chimpmatepro/*$script
-/mailmunch/static/popover.js
-/optinmonster/*$script
-||load.sumome.com
-||hellobar.com^$third-party,script,important
-||optinmonster.com*$script
-||webdesignerdepot.com/widget/*wdn-popup*
 /facebook-page-promoter-lightbox/
+||hellobar.com^$third-party,script,important
 ||leadpages.co*$third-party
+/mailmunch/static/popover.js
+||optinmonster.com*$script
+/optin-monster/*$script
+/optinmonster/*$script
 ||stacklist.com/ajax/subscribe-modal
+||load.sumome.com
+||webdesignerdepot.com/widget/*wdn-popup*
