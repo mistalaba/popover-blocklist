@@ -13,6 +13,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 
 History
 -------
+2015-10-21
+Added ouibounce
+
 2015-10-08
 Updated optin-monster. Sometimes it's with a dash, sometimes without
 
