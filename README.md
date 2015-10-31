@@ -11,6 +11,10 @@ Usage
 -----
 Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt to your filter subscriptions if you want to block some popovers, like "Subscribe to our newsletter", "Like us on Facebook" etc. 
 
+Links to some of the blocked scripts
+------------------------------------
+https://github.com/carlsednaoui/ouibounce
+
 History
 -------
 2015-10-21

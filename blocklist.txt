@@ -1,6 +1,6 @@
 ! Title: popover-blocklist
-! Checksum: TIv8IwS3TQX5Awwr6QaOHg
-! Last Modified: 21 Oct 2015 10:00 +01:00
+! Checksum: xK/9a7CeQb28e7qmnGxO3A
+! Last Modified: 31 Oct 2015 10:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -17,3 +17,4 @@ ouibounce$script
 ||optinmonster.com*$script
 ||stacklist.com/ajax/subscribe-modal
 ||webdesignerdepot.com/widget/*wdn-popup*
+leadpages.net$script
