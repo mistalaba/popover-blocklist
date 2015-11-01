@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Checksum: xK/9a7CeQb28e7qmnGxO3A
+! Checksum: +yUcXp2BSGfrUCQmCWh1qA
 ! Last Modified: 31 Oct 2015 10:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
@@ -18,3 +18,4 @@ ouibounce$script
 ||stacklist.com/ajax/subscribe-modal
 ||webdesignerdepot.com/widget/*wdn-popup*
 leadpages.net$script
+social-popup/spu.js$script

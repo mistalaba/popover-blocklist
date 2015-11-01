@@ -17,3 +17,4 @@ ouibounce$script
 ||stacklist.com/ajax/subscribe-modal
 ||webdesignerdepot.com/widget/*wdn-popup*
 leadpages.net$script
+social-popup/spu.js$script
