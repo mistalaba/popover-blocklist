@@ -1,6 +1,6 @@
 ! Title: popover-blocklist
-! Checksum: g/EAHc/0WpEtZhMUvU4Naw
-! Last Modified: 06 Dec 2015 18:00 +01:00
+! Checksum: O5DXM/p5kCy2lQ0TiZaVVw
+! Last Modified: 29 Dec 2015 12:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -20,3 +20,4 @@ ouibounce$script
 ||webdesignerdepot.com/widget/*wdn-popup*
 leadpages.net$script
 social-popup/spu.js$script
+/layered-popups/$script
