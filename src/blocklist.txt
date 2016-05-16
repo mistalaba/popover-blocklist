@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Last Modified: 29 Dec 2015 12:00 +01:00
+! Last Modified: 16 May 2016 12:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -20,3 +20,4 @@ ouibounce$script
 leadpages.net$script
 social-popup/spu.js$script
 /layered-popups/$script
+||maxtraffic.com$script
