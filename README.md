@@ -14,6 +14,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 History
 -------
 
+2016-05-27
+Modify ouibounce filter
+
 2016-05-16
 Added maxtraffic.com
 
