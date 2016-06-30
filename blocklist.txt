@@ -1,11 +1,12 @@
 ! Title: popover-blocklist
-! Checksum: pDfAt4DoqsGe95MT5FSP+w
-! Last Modified: 27 May 2016 12:00 +01:00
+! Checksum: xyTCtivxsXfCLGKoP3RhtQ
+! Last Modified: 30 June 2016 12:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
 /arscode-ninja-popups/*
 /chimpmatepro/*$script
+/chimpy/*
 /facebook-page-promoter-lightbox/
 /mailmunch/static/popover.js
 /optin-monster/*$script
