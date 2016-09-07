@@ -14,6 +14,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 History
 -------
 
+2016-09-07
+Added Computerworld Insider popup
+
 2016-06-30
 Added chimpy WP plugin
 

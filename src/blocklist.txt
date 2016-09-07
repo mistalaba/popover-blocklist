@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Last Modified: 30 June 2016 12:00 +01:00
+! Last Modified: 07 September 2016 12:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -7,18 +7,19 @@
 /chimpmatepro/*$script
 /chimpy/*
 /facebook-page-promoter-lightbox/
+/layered-popups/$script
 /mailmunch/static/popover.js
 /optin-monster/*$script
 /optinmonster/*$script
-||api.optnmnstr.com
+leadpages.net$script
 ouibounce*$script
+social-popup/spu.js$script
+||api.optnmnstr.com
 ||hellobar.com^$third-party,script,important
 ||leadpages.co*$third-party
 ||load.sumome.com
+||maxtraffic.com$script
 ||optinmonster.com*$script
 ||stacklist.com/ajax/subscribe-modal
 ||webdesignerdepot.com/widget/*wdn-popup*
-leadpages.net$script
-social-popup/spu.js$script
-/layered-popups/$script
-||maxtraffic.com$script
+||www.computerworld.com/www/js/insider/insider_reg_api.js$script,domain=www.computerworld.com
