@@ -14,6 +14,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 History
 -------
 
+2017-01-01
+Added Popupally
+
 2016-09-07
 Added Computerworld Insider popup
 
