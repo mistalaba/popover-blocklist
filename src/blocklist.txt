@@ -8,6 +8,8 @@
 /chimpy/*
 /facebook-page-promoter-lightbox/
 /layered-popups/$script
+mailerlite$script
+mailerlite_forms
 /mailmunch/static/popover.js
 /optin-monster/*$script
 /optinmonster/*$script

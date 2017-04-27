@@ -14,6 +14,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 History
 -------
 
+2017-04-27
+Added Mailerlite
+
 2017-01-01
 Added Popupally
 
