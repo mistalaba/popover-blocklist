@@ -18,6 +18,7 @@ leadpages.net$script
 ouibounce*$script
 social-popup/spu.js$script
 ||api.optnmnstr.com
+||api.optnmstr.com
 ||hellobar.com^$third-party,script,important
 ||leadpages.co*$third-party
 ||load.sumome.com
