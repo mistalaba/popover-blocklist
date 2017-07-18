@@ -1,6 +1,6 @@
 ! Title: popover-blocklist
-! Checksum: 1sbZiRroEGaCztacnt/urw
-! Last Modified: 01 January 2017 23:00 -05:00
+! Checksum: eNM+MdqA9kJKUDbUSixsXQ
+! Last Modified: 18 July 2017 15:00 +02:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
 ! Licence: https://github.com/mistalaba/popover-blocklist/blob/master/LICENSE
@@ -17,6 +17,7 @@ mailerlite_forms
 /popupally/*$script
 leadpages.net$script
 ouibounce*$script
+sendout.io$script
 social-popup/spu.js$script
 ||api.optnmnstr.com
 ||api.optnmstr.com

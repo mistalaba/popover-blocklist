@@ -14,6 +14,9 @@ Add https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blockli
 History
 -------
 
+2017-07-18
+Carpet block sendout.io
+
 2017-04-27
 Added Mailerlite
 
