@@ -19,8 +19,8 @@ msgfocus.com$script
 /optin-monster/*$script
 /optinmonster/*$script
 ||optinmonster.com*$script
-||api.optnmnstr.com
-||api.optnmstr.com
+optnmnstr.com
+optnmstr.com
 ouibounce*$script
 /popupally/*$script
 sendout.io$script

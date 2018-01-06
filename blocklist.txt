@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Checksum: 8rbLxzB+LEo9Pwoa7eR7nA
+! Checksum: omGDpBy5OXGZds9L5tXYQQ
 ! Last Modified: 6 July 2018 9:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
@@ -20,8 +20,8 @@ msgfocus.com$script
 /optin-monster/*$script
 /optinmonster/*$script
 ||optinmonster.com*$script
-||api.optnmnstr.com
-||api.optnmstr.com
+optnmnstr.com
+optnmstr.com
 ouibounce*$script
 /popupally/*$script
 sendout.io$script
