@@ -1,5 +1,5 @@
 ! Title: popover-blocklist
-! Checksum: omGDpBy5OXGZds9L5tXYQQ
+! Checksum: T2BHm0z/WHEpMJMEjAOvPA
 ! Last Modified: 6 July 2018 9:00 +01:00
 ! Expires: 5 days
 ! Homepage: https://github.com/mistalaba/popover-blocklist
@@ -16,7 +16,7 @@ mailerlite$script
 mailerlite_forms
 /mailmunch/static/popover.js
 ||maxtraffic.com$script
-msgfocus.com$script
+msgfocus.com
 /optin-monster/*$script
 /optinmonster/*$script
 ||optinmonster.com*$script

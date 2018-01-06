@@ -15,7 +15,7 @@ mailerlite$script
 mailerlite_forms
 /mailmunch/static/popover.js
 ||maxtraffic.com$script
-msgfocus.com$script
+msgfocus.com
 /optin-monster/*$script
 /optinmonster/*$script
 ||optinmonster.com*$script
